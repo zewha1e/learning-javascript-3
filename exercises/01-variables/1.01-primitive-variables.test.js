@@ -30,7 +30,7 @@
 	this variable will have a data type of "undefined" since it has not been
 	assigned a value of any kind.
 */
-
+let x ;
 // your code goes here
 
 /* TASK #2
